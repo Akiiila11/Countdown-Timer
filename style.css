@@ -1,10 +1,6 @@
 body{
     background-color: rgb(222, 209, 209) !important ;
 }
-.container{
-    background-color: white;
-    border-radius: 10px;
-}
 #display{
     text-align: center !important;
     background-color: rgb(244, 241, 241);
